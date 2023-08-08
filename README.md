@@ -1,0 +1,2 @@
+# vizualizatsiya
+amaliy_1
